@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+        <key>id</key>
+        <string>GM1</string>
+		<key>name</key>
+		<string>Sorrento</string>
+		<key>location</key>
+		<string>{57.730214,12.012585}</string>
+		<key>type</key>
+		<string>0</string>
+		<key>subtitle</key>
+		<string>Local Pub in the Gamlestan area that's been housing Bellevue Jazz for a couple of years now. You'll find the concerts in the cellar. Upstairs there's a charming bar filled with everything you could A1:D18 for. Ticets are purchased in the door, upon arrival.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM2</string>
+		<key>name</key>
+		<string>Frilagret</string>
+		<key>location</key>
+		<string>{57.702177,11.953378}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>A beautiful cultural center in the middle of Gothenburg City. Here you'll be able to experience everything from a smashing vegan brunch to poetry readings and heavy metal. Always free entrance.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM3</string>
+		<key>name</key>
+		<string>Oceanen</string>
+		<key>location</key>
+		<string>{57.698394,11.933636}</string>
+		<key>type</key>
+		<string>2</string>
+		<key>subtitle</key>
+		<string>Hip venue in the Majorna area that presents a wide array of artists and has an awesome restaurant.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM4</string>
+		<key>name</key>
+		<string>Fängelset</string>
+		<key>location</key>
+		<string>{57.716801,12.01624}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>A really cool cutural house in the east parts of the city. It was used as a prison until 1997 but is now a fully equipped and modern concert venue.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM5</string>
+		<key>name</key>
+		<string>Nylöse Kyrka</string>
+		<key>location</key>
+		<string>{57.735654,12.007087}</string>
+		<key>type</key>
+		<string>3</string>
+		<key>subtitle</key>
+		<string>A beautiful church located in the Gamlestan area. They have been a part of the festival for the last two years. Free Entrance!</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM6</string>
+		<key>name</key>
+		<string>Hjällbo Kyrka</string>
+		<key>location</key>
+		<string>{57.799163,12.049432}</string>
+		<key>type</key>
+		<string>3</string>
+		<key>subtitle</key>
+		<string>A church in the eastern parts of Gothenburg. They've been a part of the festival for the last two years. Free entrence!</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM7</string>
+		<key>name</key>
+		<string>Fabriken</string>
+		<key>location</key>
+		<string>{57.726769,12.006876}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>A musicians collective that hangs out in the old brick-houses by Gamlestans Fabriker. It's mostly used for band practice and studio recordings so public concerts here are a rare but beautiful thing.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM8</string>
+		<key>name</key>
+		<string>Italienska Föreningen</string>
+		<key>location</key>
+		<string>{57.724233,12.009383}</string>
+		<key>type</key>
+		<string>4</string>
+		<key>subtitle</key>
+		<string>Restaurant and bar run the the Italian Association in Gothenburg.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM9</string>
+		<key>name</key>
+		<string>Bellmans Salonger</string>
+		<key>location</key>
+		<string>{57.698369,11.964269}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>A beautiful venue in the center of Gothenburg. Great food and drinks</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM10</string>
+		<key>name</key>
+		<string>Folk</string>
+		<key>location</key>
+		<string>{57.70071,11.952633}</string>
+		<key>type</key>
+		<string>0</string>
+		<key>subtitle</key>
+		<string>Really cool theatre by Järntorget in the center of Gothenburg. Have at bite to eat in their great vegetarian restaurant.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM11</string>
+		<key>name</key>
+		<string>Brötz</string>
+		<key>location</key>
+		<string>{57.689744,11.957443}</string>
+		<key>type</key>
+		<string>0</string>
+		<key>subtitle</key>
+		<string>One of the studios in the artsy area of Konstepidemin in Gothenburg. Located near Linnégatan wich is a street full of great bars and restaurants.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM12</string>
+		<key>name</key>
+		<string>Holy Moly</string>
+		<key>location</key>
+		<string>{57.698904,11.945852}</string>
+		<key>type</key>
+		<string>0</string>
+		<key>subtitle</key>
+		<string>Here you'll find the best tacos in the city along with great live music in a relaxed setting. Located on the superhip and lively street Andra Långgatan.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM13</string>
+		<key>name</key>
+		<string>2Lång</string>
+		<key>location</key>
+		<string>{57.698657,11.945052}</string>
+		<key>type</key>
+		<string>0</string>
+		<key>subtitle</key>
+		<string>Really central and diverse venue on the cool street Andra Långgatan in the center of Gothenburg.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM14</string>
+		<key>name</key>
+		<string>Nefertiti</string>
+		<key>location</key>
+		<string>{57.701295,11.961764}</string>
+		<key>type</key>
+		<string>0</string>
+		<key>subtitle</key>
+		<string>The biggest, oldest and most renown venue for jazz and improvised music in Gothenburg. They been presenting everything from free jazz to blues and dixie since the 70's.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM15</string>
+		<key>name</key>
+		<string>Sockerbruket Arena</string>
+		<key>location</key>
+		<string>{57.689206,11.906468}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>A relatively new venue in Majorna near the beautiful area around Älvsborgsbron. You buy your tickets upon arrival, in the door.</string>
+	</dict>
+	<dict>
+        <key>id</key>
+        <string>GM16</string>
+		<key>name</key>
+		<string>Studio HPKSM</string>
+		<key>location</key>
+		<string>{57.700790,11.970685}</string>
+		<key>type</key>
+		<string>0</string>
+		<key>subtitle</key>
+		<string>Fantastic restaurant, bar and concert venue in the heart of Gotheburg.</string>
+	</dict>
+    <dict>
+        <key>id</key>
+        <string>GM17</string>
+        <key>name</key>
+        <string>Göteborgs Roddförening</string>
+        <key>location</key>
+        <string>{57.663516, 11.854484}</string>
+        <key>type</key>
+        <string>0</string>
+        <key>subtitle</key>
+        <string>The Gothenburg Rowing Associasions club house. Beautifully located in the archipelago.</string>
+    </dict>
+</array>
+</plist>
